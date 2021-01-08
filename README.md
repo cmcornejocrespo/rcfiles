@@ -6,7 +6,7 @@
 cd $HOME
 git init .
 git config --local status.showUntrackedFiles no
-git remote add origin https://github.com/noseka1/rcfiles.git
+git remote add origin https://github.com/cmcornejocrespo/rcfiles.git
 git fetch
 git checkout master
 ```
